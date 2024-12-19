@@ -13,7 +13,7 @@ url: ""
 # Footer info
 affiliation: >
   Stelios Flampouris<br/>
-  Earth Scientist <br/>
+  Earth Scientist by training and in practice <br/>
 
 location: >
   Washington, DC 20011, USA
@@ -26,6 +26,7 @@ contact: >
 # Pages shown in navbar
 nav_pages:
   - name: about
+  - name: Test
   - name: publications
   - name: talks
   - name: research
@@ -60,7 +61,7 @@ kramdown:
 plugins: ["jekyll/scholar"]
 
 scholar:
-  last_name: Doe
+  last_name: Fla
   first_name: [John]
 
   style: citesty
