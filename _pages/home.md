@@ -7,6 +7,7 @@ permalink: /
 
 #### Welcome to my Professional Webpage
 
+
 My journey as an operational earth scientist has been a thrilling dive into the mysteries of our planet. I've spent more than two decades in the field of the Operational Earth Sciences (OES) studying, analyzing and simulating the intricate interactions between the atmosphere, the ocean and the land, to develop operational observation and forecast systems, by using cutting-edge observations, data assimilation, and sophisticated models.
 
 My academic voyage began at the University of Aegean, where I first delved into the fascinating world of marine sciences and numerical modeling. I then embarked on a deeper exploration, earning my MSc and PhD from the prestigious University of Kiel and the University of Hamburg, respectively, focusing on the critical air-sea interface.
@@ -27,6 +28,7 @@ Flampouris, Global Wave Analysis System,  <i>25 YPRA Symppsium.</i> (2018)
 <br/>
 
 #### Operational Earth Sciences 
+
 
 Operational Earth Sciences (OES) systematically and continuously applies Earth science knowledge and tools to monitor, analyze, and predict Earth's systems and processes at relevant time and space scales. This involves constantly collecting, processing, and interpreting data from various sources to provide timely information for decision-making and action.
 
