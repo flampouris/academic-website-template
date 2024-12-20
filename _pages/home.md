@@ -19,8 +19,9 @@ Passionate about advancing scientific knowledge for the benefit of all, I'm a st
 <div class="container">
 <div class="row">
 <img src="{{ site.url }}{{ site.baseurl }}/images/Operational_Oceanography.png" width="100%"/><br/>
-Example of Operational System at NWS. <br/>
+<small> Example of Operational System at NWS. <br/>
 Flampouris, Global Wave Analysis System,  <i>25 YPRA Symppsium.</i> (2018)
+</small>
 </div>
 </div>
 <br/>
