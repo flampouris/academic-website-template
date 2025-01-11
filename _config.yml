@@ -26,9 +26,9 @@ contact: >
 # Pages shown in navbar
 nav_pages:
   - name: About
-  - name: Development
+  - name: Activities
   - name: Publications
-  - name: Collaborators
+  - name: Collaborations
   - name: Thoughts
 
 include:

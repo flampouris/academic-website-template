@@ -1,8 +1,9 @@
 - name: Dr. Stylianos Flampouris
   photo: Headshot_serious_crop1.jpeg
   info: Scientist and Executive in Earth Sciences
-  email: stelios@flampouris.com
+  email: stelios@flampouris.com 
   github: https://github.com/flampouris 
+  linkedin: https://www.linkedin.com/in/flampouris
   scholar: https://scholar.google.com/citations?user=wzU8V1cAAAAJ
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
