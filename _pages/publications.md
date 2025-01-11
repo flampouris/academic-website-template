@@ -16,40 +16,31 @@ years: [2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 
 }
 </style>
 
-
-### Books
-
 <div class="jumbotron">
+### Books
 {% bibliography --query @Book %}
 </div>
 
-
-### Book Chapter
-
 <div class="jumbotron">
+### Book Chapter
 {% bibliography --query @InBook %}
 </div>
 
-### Journal Articles
-
 <div class="jumbotron">
+### Journal Articles
 {% bibliography --query @article %}
 </div>
 
-### Conference Proceedings
-
 <div class="jumbotron">
+### Conference Proceedings
 {% bibliography --query @inproceedings %}
 </div>
 
-### In Collections
-
 <div class="jumbotron">
+### In Collections
 {% bibliography --query @incollection %}
 </div>
 
-### Technical Reports
-
 <div class="jumbotron">
-{% bibliography --query @TechReport %}
+### Technical Reports {% bibliography --query @TechReport %}
 </div>
