@@ -35,6 +35,66 @@ permalink: /about/
 </div>
 {% endfor %}
 
+{% if site.data.positions %}
+
+<div class="jumbotron">
+  <h3>Professional Experience</h3>
+  <ul>
+    {% for position in site.data.positions %}
+      <li>{{ position.title }}, {{ position.employer }} {{position.client}} ({{ position.location }}, {{ position.year }})</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+{% if site.data.visitor %}
+
+<div class="jumbotron">
+  <h3>Visiting Positions</h3>
+  <ul>
+    {% for position in site.data.visitor %}
+      <li>{{ position.title }}, <em> {{position.subject}} </em>, {{ position.host }}, {{position.location}} ({{ position.year }})</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+{% if site.data.member %}
+
+<div class="jumbotron">
+  <h3>Membership</h3>
+  <ul>
+    {% for member in site.data.member %}
+      <li>{{ member.name }}</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+{% if site.data.reviewer %}
+
+<div class="jumbotron">
+  <h3>Reviewer</h3>
+  <ul>
+    {% for journal in site.data.reviewer %}
+      <li>{{ journal.name }}</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+<div class="jumbotron">
+  <h3>Sponsors</h3>
+
+  Over the years, my work has neem supported by several National and International Public, Non-Profit and Private Organizations.
+  
+  <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
+  {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
+  </div>
+</div>
+
+
+<!-- 
 {% if site.data.grants %}
 
 <div class="jumbotron">
@@ -71,9 +131,5 @@ permalink: /about/
 </div>
 {% endif %}
 
-<div class="jumbotron">
-  <h4>Sponsors</h4>
-  <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
-  {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
-  </div>
-</div>
+-->
+

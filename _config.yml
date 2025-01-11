@@ -26,10 +26,11 @@ contact: >
 # Pages shown in navbar
 nav_pages:
   - name: About
-  - name: Activities
+  - name: Achievements
   - name: Publications
   - name: Collaborations
-  - name: Thoughts
+  - name: Insights
+#  - name: Research
 
 include:
   - .htaccess
@@ -52,13 +53,13 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+  parse_block_html: false # default for kramdown is false. This will enable using Markdown links
 
 plugins: ["jekyll/scholar"]
 
 scholar:
-  last_name: Fla
-  first_name: [John]
+  last_name: Flampouris
+  first_name: [Stylianos]
 
   style: citesty
   locale: en

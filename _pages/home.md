@@ -5,23 +5,23 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome to my Webpage
+#### Unlocking the Earth's Secrets: 
+#### A Career in Operational Earth Science
 
+<br/>
+For over 20 years, I've been on a mission to decode the complex dance between our atmosphere, oceans, and land. As an operational earth scientist, I use cutting-edge tools to analyze and predict these interactions, helping us develop better observation and forecasting systems.
 
-My journey as an operational earth scientist has been a thrilling dive into the mysteries of our planet. I've spent more than two decades in the field of the Operational Earth Sciences (OES) studying, analyzing and simulating the intricate interactions between the atmosphere, the ocean and the land, to develop operational observation and forecast systems, by using cutting-edge observations, data assimilation, and sophisticated models.
+My journey began in Greece, , where I was captivated by the world of marine sciences and numerical and ML modeling from the University of the Aegean. This fascination led me to pursue my MSc and PhD at the University of Kiel and the University of Hamburg, respectively, where I focused on the crucial air-sea interface. 
 
-My academic voyage began at the University of Aegean, where I first delved into the fascinating world of marine sciences and numerical modeling. I then embarked on a deeper exploration, earning my MSc and PhD from the prestigious University of Kiel and the University of Hamburg, respectively, focusing on the critical air-sea interface.
+Throughout my career, I've had the privilege of contributing to groundbreaking research and operational systems at leading institutions like the Hereon Institute, the Naval Research Lab, and NOAA, where I've served across various line offices, including NWS, NOS, and OAR. I've also gained valuable experience in the private sector, holding leadership roles at Tomorrow.io, IMSG, and STC.
 
-Since then, I've been fortunate to contribute to groundbreaking research and operational systems at esteemed institutions like Hereon Institute in Germany, the Naval Research Lab in the USA, and NOAA, where I've served across various divisions, including NWS, NOS, and OAR. My experience extends beyond public sector, with leadership roles, and valuable contributions with several private companies.
-
-Passionate about advancing scientific knowledge for the benefit of all, I'm a strong advocate for open science and data. I've dedicated myself to fostering vibrant research communities, actively supporting, contributing to open-source initiatives, and breaking down barriers to collaboration between academia, government, and industry.
-
+As global citizen and scientist, one of my driving forces is the desire to make scientific knowledge accessible to everyone. I'm a firm believer in open science and data, and I actively support initiatives that break down barriers between academia, government, and industry, with the public private partnerships to be the path forward.  
 
 <div class="container">
 <div class="row">
 <img src="{{ site.url }}{{ site.baseurl }}/images/Operational_Oceanography.png" width="100%"/><br/>
 <small> Example of Operational System at NWS. <br/>
-Flampouris, Global Wave Analysis System,  <i>25 YPRA Symppsium.</i> (2018)
+Flampouris, Global Wave Analysis System,  <i>25 YPRA Symposium.</i> (2018)
 </small>
 </div>
 </div>
@@ -40,6 +40,3 @@ OES integrates four key elements:
 * Infrastructure and architecture: High Performance Computing; Code, Configuration, Data management and optimization; Continuous Testing; Documentation
 
 OES has a broad societal impact, from daily weather forecasts to long-term planning for climate resilience, disaster risk reduction, resource management, environmental protection, and economic development.
-
-
-

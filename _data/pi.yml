@@ -1,4 +1,4 @@
-- name: Dr. Stylianos Flampouris
+- name: Stelios Flampouris
   photo: Headshot_serious_crop1.jpeg
   info: Scientist and Executive in Earth Sciences
   email: stelios@flampouris.com 
@@ -9,11 +9,8 @@
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(2010) Ph.D. Oceanography, University of Hamburg",
-      "(2006) M.S.  Coastal Engineering, University of Kiel",
-      "(2004) B.S.  Numerical Modeling, University of the Aegean",
-      "(2003) B.S.  Marine Sciencces, University of the Aegean"
+      "Ph.D. Oceanography, University of Hamburg (2010) ",
+      "M.Sc. Coastal Engineering, University of Kiel (2006)",
+      "M.Sc. Numerical Modeling, University of the Aegean (2004)",
+      "B.Sc. Marine Sciences, University of the Aegean (2003)"
     ]
-#
-#  educationshort:
-#    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
